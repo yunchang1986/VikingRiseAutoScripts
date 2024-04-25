@@ -1,0 +1,899 @@
+{
+    "MacroSchemaVersion": 3,
+    "Macros": [
+        {
+            "Acceleration": 1,
+            "CreationTime": "20240419T094627",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 28800,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "TillTime",
+            "MergeConfigurations": [
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 5,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "3隊採集_5min"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "領地cmd"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 5,
+                    "LoopInterval": 15,
+                    "LoopIterations": 20,
+                    "MacrosToRun": [
+                        "點幫助"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 10,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "領地cmd"
+                    ]
+                }
+            ],
+            "Name": "幫助15s_採集5m_3隊",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20240425T085408",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 300,
+            "LoopIterations": 1,
+            "LoopType": "UntilStopped",
+            "MergeConfigurations": [
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "進搜尋"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "採集_農地"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "進搜尋"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "採集_石頭"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "進搜尋"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "採集_木頭"
+                    ]
+                }
+            ],
+            "Name": "3隊採集_5min",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20240425T142800",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 300,
+            "LoopIterations": 1,
+            "LoopType": "UntilStopped",
+            "MergeConfigurations": [
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "純採集"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "純採集"
+                    ]
+                }
+            ],
+            "Name": "3隊採集2次",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20240419T100512",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "UntilStopped",
+            "MergeConfigurations": [
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "進搜尋"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "採集_農地"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "進搜尋"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 300,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "採集_木頭"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "進搜尋"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "採集_石頭"
+                    ]
+                }
+            ],
+            "Name": "純採集",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20240420T173309",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 10800,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "UntilStopped",
+            "MergeConfigurations": [
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 5,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "純採集_4隊輪流"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "領地cmd"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 15,
+                    "LoopIterations": 20,
+                    "MacrosToRun": [
+                        "點幫助"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "領地cmd"
+                    ]
+                }
+            ],
+            "Name": "幫助15s_採集5m_4隊",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20240419T103909",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 7200,
+            "LoopInterval": 300,
+            "LoopIterations": 1,
+            "LoopType": "UntilStopped",
+            "MergeConfigurations": [
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "進搜尋"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "採集_農地"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "進搜尋"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 5,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "採集_木頭"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "進搜尋"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 5,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "採集_石頭"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "進搜尋"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 5,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "採集_農地"
+                    ]
+                }
+            ],
+            "Name": "純採集_4隊輪流",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20240423T231714",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "TillLoopNumber",
+            "MergeConfigurations": [
+            ],
+            "Name": "點士兵訓練",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20240423T231545",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "TillLoopNumber",
+            "MergeConfigurations": [
+            ],
+            "Name": "點搬運",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20240423T231502",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "TillLoopNumber",
+            "MergeConfigurations": [
+            ],
+            "Name": "點戰士",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20240423T231356",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "TillLoopNumber",
+            "MergeConfigurations": [
+            ],
+            "Name": "點槍兵",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20240423T231442",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "TillLoopNumber",
+            "MergeConfigurations": [
+            ],
+            "Name": "點射手",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20240419T105122",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "TillLoopNumber",
+            "MergeConfigurations": [
+            ],
+            "Name": "隙縫座標",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20240419T103629",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "TillLoopNumber",
+            "MergeConfigurations": [
+            ],
+            "Name": "採集_金礦",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20240419T093500",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "TillLoopNumber",
+            "MergeConfigurations": [
+            ],
+            "Name": "採集_石頭",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20240419T092940",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "TillLoopNumber",
+            "MergeConfigurations": [
+            ],
+            "Name": "採集_農地",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20240419T093043",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 5,
+            "LoopIterations": 1,
+            "LoopType": "TillLoopNumber",
+            "MergeConfigurations": [
+            ],
+            "Name": "採集_木頭",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20240419T094513",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 10,
+            "LoopIterations": 1,
+            "LoopType": "UntilStopped",
+            "MergeConfigurations": [
+            ],
+            "Name": "點幫助",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20240419T094031",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "TillLoopNumber",
+            "MergeConfigurations": [
+            ],
+            "Name": "領地cmd",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20240419T092349",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "TillLoopNumber",
+            "MergeConfigurations": [
+            ],
+            "Name": "進搜尋",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20240419T223342",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 0,
+            "LoopIterations": 349,
+            "LoopType": "TillLoopNumber",
+            "MergeConfigurations": [
+            ],
+            "Name": "營地打探",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20240420T144139",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "TillLoopNumber",
+            "MergeConfigurations": [
+            ],
+            "Name": "拜訪",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20240420T144436",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "TillLoopNumber",
+            "MergeConfigurations": [
+            ],
+            "Name": "上滑",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20240420T144513",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "UntilStopped",
+            "MergeConfigurations": [
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "拜訪"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "營地打探"
+                    ]
+                }
+            ],
+            "Name": "CAMP",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        }
+    ],
+    "NextMacroId": 65,
+    "Organization": [
+        {
+            "ID": 7,
+            "IsFolder": false,
+            "IsOpen": false,
+            "IsVisible": true,
+            "Name": "幫助15s_採集5m_3隊",
+            "Order": 2,
+            "ParentFolder": -1
+        },
+        {
+            "ID": 42,
+            "IsFolder": false,
+            "IsOpen": false,
+            "IsVisible": true,
+            "Name": "3隊採集_5min",
+            "Order": -1,
+            "ParentFolder": -1
+        },
+        {
+            "ID": 43,
+            "IsFolder": false,
+            "IsOpen": false,
+            "IsVisible": true,
+            "Name": "3隊採集2次",
+            "Order": 1,
+            "ParentFolder": -1
+        },
+        {
+            "ID": 8,
+            "IsFolder": false,
+            "IsOpen": false,
+            "IsVisible": true,
+            "Name": "純採集",
+            "Order": -1,
+            "ParentFolder": -1
+        },
+        {
+            "ID": 9,
+            "IsFolder": true,
+            "IsOpen": true,
+            "IsVisible": true,
+            "Name": "荷魯斯",
+            "Order": -1,
+            "ParentFolder": -1
+        },
+        {
+            "ID": 24,
+            "IsFolder": false,
+            "IsOpen": true,
+            "IsVisible": true,
+            "Name": "幫助15s_採集5m_4隊",
+            "Order": -1,
+            "ParentFolder": 9
+        },
+        {
+            "ID": 11,
+            "IsFolder": false,
+            "IsOpen": false,
+            "IsVisible": true,
+            "Name": "純採集_4隊輪流",
+            "Order": 24,
+            "ParentFolder": 9
+        },
+        {
+            "ID": 34,
+            "IsFolder": true,
+            "IsOpen": false,
+            "IsVisible": true,
+            "Name": "練兵基本指令",
+            "Order": -1,
+            "ParentFolder": 9
+        },
+        {
+            "ID": 33,
+            "IsFolder": false,
+            "IsOpen": false,
+            "IsVisible": false,
+            "Name": "點士兵訓練",
+            "Order": -1,
+            "ParentFolder": 34
+        },
+        {
+            "ID": 31,
+            "IsFolder": false,
+            "IsOpen": false,
+            "IsVisible": false,
+            "Name": "點搬運",
+            "Order": -1,
+            "ParentFolder": 34
+        },
+        {
+            "ID": 30,
+            "IsFolder": false,
+            "IsOpen": false,
+            "IsVisible": false,
+            "Name": "點戰士",
+            "Order": -1,
+            "ParentFolder": 34
+        },
+        {
+            "ID": 28,
+            "IsFolder": false,
+            "IsOpen": false,
+            "IsVisible": false,
+            "Name": "點槍兵",
+            "Order": -1,
+            "ParentFolder": 34
+        },
+        {
+            "ID": 29,
+            "IsFolder": false,
+            "IsOpen": false,
+            "IsVisible": false,
+            "Name": "點射手",
+            "Order": -1,
+            "ParentFolder": 34
+        },
+        {
+            "ID": 12,
+            "IsFolder": true,
+            "IsOpen": false,
+            "IsVisible": true,
+            "Name": "基礎指令",
+            "Order": -1,
+            "ParentFolder": -1
+        },
+        {
+            "ID": 13,
+            "IsFolder": false,
+            "IsOpen": true,
+            "IsVisible": false,
+            "Name": "隙縫座標",
+            "Order": 28,
+            "ParentFolder": 12
+        },
+        {
+            "ID": 10,
+            "IsFolder": false,
+            "IsOpen": true,
+            "IsVisible": false,
+            "Name": "採集_金礦",
+            "Order": 30,
+            "ParentFolder": 12
+        },
+        {
+            "ID": 4,
+            "IsFolder": false,
+            "IsOpen": false,
+            "IsVisible": false,
+            "Name": "採集_石頭",
+            "Order": 21,
+            "ParentFolder": 12
+        },
+        {
+            "ID": 2,
+            "IsFolder": false,
+            "IsOpen": false,
+            "IsVisible": false,
+            "Name": "採集_農地",
+            "Order": 18,
+            "ParentFolder": 12
+        },
+        {
+            "ID": 3,
+            "IsFolder": false,
+            "IsOpen": false,
+            "IsVisible": false,
+            "Name": "採集_木頭",
+            "Order": 20,
+            "ParentFolder": 12
+        },
+        {
+            "ID": 6,
+            "IsFolder": false,
+            "IsOpen": false,
+            "IsVisible": false,
+            "Name": "點幫助",
+            "Order": 29,
+            "ParentFolder": 12
+        },
+        {
+            "ID": 5,
+            "IsFolder": false,
+            "IsOpen": false,
+            "IsVisible": false,
+            "Name": "領地cmd",
+            "Order": -1,
+            "ParentFolder": 12
+        },
+        {
+            "ID": 1,
+            "IsFolder": false,
+            "IsOpen": false,
+            "IsVisible": false,
+            "Name": "進搜尋",
+            "Order": 19,
+            "ParentFolder": 12
+        },
+        {
+            "ID": 16,
+            "IsFolder": false,
+            "IsOpen": false,
+            "IsVisible": true,
+            "Name": "營地打探",
+            "Order": 35,
+            "ParentFolder": -1
+        },
+        {
+            "ID": 21,
+            "IsFolder": false,
+            "IsOpen": false,
+            "IsVisible": true,
+            "Name": "拜訪",
+            "Order": -1,
+            "ParentFolder": -1
+        },
+        {
+            "ID": 22,
+            "IsFolder": false,
+            "IsOpen": false,
+            "IsVisible": true,
+            "Name": "上滑",
+            "Order": -1,
+            "ParentFolder": -1
+        },
+        {
+            "ID": 23,
+            "IsFolder": false,
+            "IsOpen": false,
+            "IsVisible": true,
+            "Name": "CAMP",
+            "Order": 25,
+            "ParentFolder": -1
+        }
+    ],
+    "TabIndex": 0
+}

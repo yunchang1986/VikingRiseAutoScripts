@@ -1,0 +1,14 @@
+{
+    "Events": [
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 1213
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 1360
+        }
+    ]
+}

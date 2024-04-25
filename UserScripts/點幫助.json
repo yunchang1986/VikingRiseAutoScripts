@@ -1,0 +1,14 @@
+{
+    "Events": [
+        {
+            "EventType": "KeyDown",
+            "KeyName": "R",
+            "Timestamp": 1126
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "R",
+            "Timestamp": 1285
+        }
+    ]
+}
