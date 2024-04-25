@@ -10,4 +10,5 @@ Viking Rise Scripts for BlueStacks simulator
 ## 鍵盤位置設定
 請照操作，設定快速鍵位置。【很重要絕對不可以跳過!】
 1. 開啟模擬器右手邊 `鍵盤控制`
-![image](https://imgur.com/a/cND6aXj)
+
+![image]('images/keyboard_1.png')
